@@ -1,0 +1,4 @@
+charset,Shift_JIS
+type,supplement
+name,chito_achievement-patch
+accept,ƒ`ƒg
